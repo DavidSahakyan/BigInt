@@ -38,7 +38,7 @@ TEST(Bigint_test, opdividecheck)
 {
     BigInt separatable("1000000000000000000000000000000000000000"); //40
     BigInt divider("50000000000000000000"); // 21
-    BigInt expected("200000000000000000"); //19
+    BigInt expected("20000000000000000000"); //19
     BigInt actual = separatable/divider;
     ASSERT_EQ(actual, expected);
 }

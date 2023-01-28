@@ -350,8 +350,8 @@ public:
                     return false;
                 }
             }
-            return true;
         }
+        return true;
     }
 
     bool operator!=(const BigInt& other) const
