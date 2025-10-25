@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/david/Desktop/BigInt/build/cmake_install.cmake",
+		"/home/david/Desktop/BigInt/build/src/cmake_install.cmake",
+		"/home/david/Desktop/BigInt/build/src/Bigint/cmake_install.cmake",
+		"/home/david/Desktop/BigInt/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

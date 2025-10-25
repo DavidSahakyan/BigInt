@@ -1,0 +1,15 @@
+/home/david/Desktop/BigInt/build/CMakeFiles/main.dir
+/home/david/Desktop/BigInt/build/CMakeFiles/test.dir
+/home/david/Desktop/BigInt/build/CMakeFiles/edit_cache.dir
+/home/david/Desktop/BigInt/build/CMakeFiles/rebuild_cache.dir
+/home/david/Desktop/BigInt/build/src/CMakeFiles/test.dir
+/home/david/Desktop/BigInt/build/src/CMakeFiles/edit_cache.dir
+/home/david/Desktop/BigInt/build/src/CMakeFiles/rebuild_cache.dir
+/home/david/Desktop/BigInt/build/src/Bigint/CMakeFiles/Bigint.dir
+/home/david/Desktop/BigInt/build/src/Bigint/CMakeFiles/test.dir
+/home/david/Desktop/BigInt/build/src/Bigint/CMakeFiles/edit_cache.dir
+/home/david/Desktop/BigInt/build/src/Bigint/CMakeFiles/rebuild_cache.dir
+/home/david/Desktop/BigInt/build/tests/CMakeFiles/Bigint_test.dir
+/home/david/Desktop/BigInt/build/tests/CMakeFiles/test.dir
+/home/david/Desktop/BigInt/build/tests/CMakeFiles/edit_cache.dir
+/home/david/Desktop/BigInt/build/tests/CMakeFiles/rebuild_cache.dir
